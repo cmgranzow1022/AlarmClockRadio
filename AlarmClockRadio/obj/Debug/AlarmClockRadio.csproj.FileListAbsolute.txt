@@ -1,0 +1,6 @@
+c:\users\christine\documents\visual studio 2015\Projects\AlarmClockRadio\AlarmClockRadio\bin\Debug\AlarmClockRadio.exe.config
+c:\users\christine\documents\visual studio 2015\Projects\AlarmClockRadio\AlarmClockRadio\obj\Debug\AlarmClockRadio.csprojResolveAssemblyReference.cache
+c:\users\christine\documents\visual studio 2015\Projects\AlarmClockRadio\AlarmClockRadio\bin\Debug\AlarmClockRadio.exe
+c:\users\christine\documents\visual studio 2015\Projects\AlarmClockRadio\AlarmClockRadio\bin\Debug\AlarmClockRadio.pdb
+c:\users\christine\documents\visual studio 2015\Projects\AlarmClockRadio\AlarmClockRadio\obj\Debug\AlarmClockRadio.exe
+c:\users\christine\documents\visual studio 2015\Projects\AlarmClockRadio\AlarmClockRadio\obj\Debug\AlarmClockRadio.pdb
