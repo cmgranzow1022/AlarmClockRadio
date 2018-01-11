@@ -91,7 +91,7 @@ namespace AlarmClockRadio
             Console.WriteLine("Select 1 to change the time. The current time is " + currentTime + ".");
             Console.WriteLine("Select 2 to set the alarm time. The alarm is set to " + alarmTime + ".");
             Console.WriteLine("Select 3 to turn the alarm on/off. The alarm is currently " + alarm + ".");
-            Console.WriteLine("Select 4 to turn the radio on/off. The radio is " + radio + " .");
+            Console.WriteLine("Select 4 to turn the radio on/off. The radio is " + radio + ".");
             Console.WriteLine("Select 5 to change the radio station. The station is currently " + setRadioStation + ".");
             Console.WriteLine("Select 0 to exit.");
             userInput = Console.ReadLine();
